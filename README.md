@@ -42,7 +42,8 @@
 
 | Project Title | Repository | Year |
 |---------------|------------|------|
-| AIDM-24 | [Repo Link](https://github.com/NGNLab-Projects/AIDM-AS-2024) | 2024 |
 | QML_Simulator | [Repo Link](https://github.com/NGNLab-Projects/QML_Simulator) | 2026 |
+| AIDM-24 | [Repo Link](https://github.com/NGNLab-Projects/AIDM-AS-2024) | 2024 |
+
 
 ---
