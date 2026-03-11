@@ -1,5 +1,15 @@
 # NGNLab_Projects_Index
-# FYP Projects
+# 6G UCLab Projects
+
+## 2026
+
+| Project Title | Repository |
+|---------------|-------------|
+| 6G_labworks | [Repo Link](https://github.com/NGNLab-Projects/6G_labworks) |
+
+---
+
+# FYP Projects (Ongoing)
 
 ## Dec 2025 - April 2026
 
@@ -13,7 +23,7 @@
 
 ---
 
-# CIP Projects
+# CIP Projects (Ongoing)
 
 ## Jan 2026 - April 2026
 
@@ -27,13 +37,11 @@
 
 ---
 
-# 6G UCLab Projects
-
-## 2026
-
-| Project Title | Repository |
-|---------------|-------------|
-| 6G_labworks | [Repo Link](https://github.com/NGNLab-Projects/6G_labworks) |
+# Dr. R. Kathiroli & Teams
+| Team | Project Title | Repository |
+|-----|---------------|-----------|
+| Vishaal & Team | KPI Shield : KPI Poisoning Detection in Near RT RIC for ORAN based 6G Networks | [Repo Link](https://github.com/NGNLab-Projects/KPI-Shield-KPI-Poisoning-Detection-in-Near-RT-RIC-for-ORAN-based-6G-Networks_Jan2026) |
+| Rakesh & Team | GATE_xApp | [Repo Link](https://github.com/NGNLab-Projects/GATE_xApp_Jan2026) |
 
 
 ---
