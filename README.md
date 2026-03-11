@@ -32,7 +32,7 @@
 ## 2026
 
 | Project Title | Repository |
-|-----|---------------|-----------|
+|---------------|-------------|
 | 6G_labworks | [Repo Link](https://github.com/NGNLab-Projects/6G_labworks) |
 
 
@@ -41,7 +41,7 @@
 # Completed Projects
 
 | Project Title | Repository | Year |
-|-----|------|---------------|-----------|
+|---------------|------------|------|
 | AIDM-24 | [Repo Link](https://github.com/NGNLab-Projects/AIDM-AS-2024) | 2024 |
 | QML_Simulator | [Repo Link](https://github.com/NGNLab-Projects/QML_Simulator) | 2026 |
 
