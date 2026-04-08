@@ -1,11 +1,12 @@
 # NGNLab_Projects_Index
-# 6G UCLab Projects
+# 6GUCLab Projects
 
-## 2026
+| Team/Month-Year | Project Title | Repository |
+|-----|---------------|-----------|
+| Romera April-2026 | Power_Allocation_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/Power-Allocation_O-RAN_xApp) |
+| Romera April-2026 | MCS_Selection_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/MCS_Selection_O-RAN_xAPP) |
+| Romera April-2026 | PRB_Allocation_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/PRB_Allocation_O-RAN_xAPP) |
 
-| Project Title | Repository |
-|---------------|-------------|
-| 6G_labworks | [Repo Link](https://github.com/NGNLab-Projects/6G_labworks) |
 
 ---
 
@@ -53,5 +54,15 @@
 | QML_Simulator | [Repo Link](https://github.com/NGNLab-Projects/QML_Simulator) | 2026 |
 | AIDM-24 | [Repo Link](https://github.com/NGNLab-Projects/AIDM-AS-2024) | 2024 |
 
+
+---
+
+# Other Projects
+
+## 2026
+
+| Project Title | Repository |
+|---------------|-------------|
+| 6G_labworks | [Repo Link](https://github.com/NGNLab-Projects/6G_labworks) |
 
 ---
