@@ -1,11 +1,12 @@
 # NGNLab_Projects_Index
+
 # 6GUCLab Projects
 
 | Team/Month-Year | Project Title | Repository |
 |-----|---------------|-----------|
 | Romera April-2026 | Power_Allocation_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/Power-Allocation_O-RAN_xApp) |
-| Romera April-2026 | MCS_Selection_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/MCS_Selection_O-RAN_xAPP) |
-| Romera April-2026 | PRB_Allocation_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/PRB_Allocation_O-RAN_xAPP) |
+| Jaslyn April-2026 | MCS_Selection_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/MCS_Selection_O-RAN_xAPP) |
+| Yogendran April-2026 | PRB_Allocation_O-RAN_xApp | [Repo Link](https://github.com/NGNLab-Projects/PRB_Allocation_O-RAN_xAPP) |
 
 
 ---
